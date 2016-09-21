@@ -1,0 +1,170 @@
+/*reset*/
+body, h1{
+	margin: 0;
+}
+img{
+	border: none;
+	vertical-align: top;
+}
+a{
+	text-decoration: none;
+}
+body{
+	font-size: 12px;
+}
+/*工具样式*/
+.wrap{
+	width: 1180px;
+	margin: 0 auto;
+}
+.fl{
+	float: left;
+}
+.clearfix{
+	*zoom:1;
+}
+.clearfix:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.ico-more{
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border:4px solid red;
+	border-top-color:#999a9b;
+}
+/*头部吊顶*/
+.head_top{
+	width:100%;
+	height: 50px;
+	background-color: #323436;
+}
+.head_top .top_content{
+	height: 50px;
+}
+.logo{
+	padding-top: 7px;
+	margin-right: 24px;
+}
+.sel_nav{
+	display: none;
+	width: 56px;
+	height: 50px;
+	background:#454648 url(../img/ico-nav.jpg) no-repeat center center;
+}
+.nav_box a{
+	float: left;
+	color: #8c8c8c;
+	padding: 0 20px;
+	line-height: 50px;
+	position: relative;
+}
+.nav_box .ico-more{
+	position: absolute;
+	right: 3px;
+	top: 24px;
+}
+.login_reg{
+	float: right;
+	padding-top: 10px;
+}
+.login_reg .search_box{
+	width: 14px;
+	height: 14px;
+	background: url(../img/ico-search.jpg) no-repeat;
+	margin: 8px 28px 0 0;
+	cursor: pointer;
+}
+.login_reg a{
+	width: 70px;
+	height: 32px;
+	text-align: center;
+	line-height: 32px;
+	color: #acacac;
+	background-color: #505050;
+}
+.login_reg .active{
+	background-color: #6bc30d;
+	color: #fff;
+}
+
+/*图片区域*/
+.big_img{
+	width: 580px;
+	height: 270px;
+	background-color: pink;
+}
+.s_img{
+	width: 280px;
+	height: 270px;
+	background-color: red;
+}
+.main{
+	display:flex;
+	flex-wrap: wrap;
+	flex-direction:row;
+	justify-content: space-between;
+}
+.main .s_img,
+.main .big_img{
+	margin-bottom: 46px;
+}
+/*三角*/
+.type_box a{
+	float: left;
+	width: 124px;
+	height: 39px;
+	border: 1px solid #d9dada;
+	text-align: center;
+	line-height: 39px;
+}
+.nav_item{
+	position: relative;
+}
+.nav_item .ico-more{
+	position: absolute;
+	right: -18px;
+	top: 3px;
+}
+.type_box a:hover .ico-more{
+	border:4px solid red;
+	border-bottom-color: #999a9b;
+	top: 3px;
+}
+
+
+
+/*点赞*/
+.s_img .others{
+	height: 45px;
+	background: yellow;
+	border-bottom: 1px solid #f2f2f2;
+}
+.s_img .user{
+	height: 44px;
+	background: green;
+	border-bottom: 1px solid #f2f2f2;
+}
+
+/*用户*/
+
+
+
+@media only all and (max-width: 1250px) {
+	.sel_nav{
+		display: block;
+	}
+	.nav_box{
+		display: none;
+	}
+	.wrap{
+		width: 880px;
+	}
+}
+@media only all and (max-width: 950px) {
+	.wrap{
+		width: 580px;
+	}
+}
