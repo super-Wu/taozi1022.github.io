@@ -70,7 +70,7 @@ var casees = [
 				}
 			]
 		},
-		{
+		/*{
 			caseName:"for应用this关键字",
 			caseList:[
 				{
@@ -278,5 +278,5 @@ var casees = [
 
 				}
 			]
-		}
+		}*/
 ]
