@@ -70,78 +70,40 @@ var casees = [
 				}
 			]
 		},
-		/*{
-			caseName:"for应用this关键字",
+		{
+			caseName:"ECMAScript 5.1、数据类型、作用域",
 			caseList:[
 				{
-					caseTitle:"上下移动",
+					caseTitle:"修改文本框的值",
 					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"images/icon/exp.png",
-					caseDescription:"浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>浏览器<br/>可以被<br/>认为浏<br/>览<br/>器<br/>可<br/>以<br/>认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
+					caseThumbnail:"images/case/2/修改文本框的值.png",
+					caseDescription:"for循环，函数传参，input的value属性值得获取和设置",
+					caseWebsite:"./case/ECMAScript5.1/修改文本框的值/index.html"
 				},
 				{
-					caseTitle:"切换来去",
+					caseTitle:"商品累计",
 					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"http://jquery.com/jquery-wp-content/themes/jquery.com/i/try-jquery.jpg",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
+					caseThumbnail:"images/case/2/商品累计.png",
+					caseDescription:"判断最大值，函数传参，parseInt，parseFloat",
+					caseWebsite:"./case/ECMAScript5.1/商品累计/index.html"
 				},
 				{
-					caseTitle:"上下移动",
+					caseTitle:"输入正确的QQ号码",
 					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"http://image72.360doc.com/DownloadImg/2014/05/2605/42035151_6.jpg",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
+					caseThumbnail:"images/case/2/输入正确的QQ号码.png",
+					caseDescription:"parseInt，typeof，isNaN，length，&&逻辑运算符",
+					caseWebsite:"./case/ECMAScript5.1/输入正确的QQ号码/index.html"
 				},
 				{
-					caseTitle:"切换来去",
+					caseTitle:"找到合适的值",
 					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"http://jquerymobile.com/resources/devices.png",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
-				},{
-					caseTitle:"上下移动",
-					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"https://avatars1.githubusercontent.com/u/6025224?v=3&s=400",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
-				},
-				{
-					caseTitle:"切换来去",
-					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"images/icon/exp.png",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
-				},{
-					caseTitle:"上下移动",
-					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"images/icon/exp.png",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
-				},
-				{
-					caseTitle:"切换来去",
-					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"images/icon/exp.png",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
-				},{
-					caseTitle:"上下移动",
-					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"images/icon/exp.png",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
-				},
-				{
-					caseTitle:"切换来去",
-					publishTime:"2011-11-16 22:08",
-					caseThumbnail:"images/icon/exp.png",
-					caseDescription:"浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认 为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可 以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为浏览器可以被认为 浏览器可以被认为浏览器可以被认为"
-					,caseWebsite:"http:www.miaov.com"
+					caseThumbnail:"images/case/2/找到合适的值.png",
+					caseDescription:"parseInt，typeof，isNaN，-Infinity，NaN，&&逻辑运算符",
+					caseWebsite:"./case/ECMAScript5.1/找到合适的值/index.html"
 				}
 			]
-		},{
+		},
+		/*{
 			caseName:"自定义属性、索引值",
 			caseList:[
 				{
