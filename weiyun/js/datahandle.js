@@ -102,5 +102,5 @@ var dataAction = (function(){
         }
 	}
 
-}())
+})();
 
