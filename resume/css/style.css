@@ -150,6 +150,7 @@ body {
 .pic img{
 	width: 200px;
 	height: 200px;
+	border-radius: 100px;
 }
 .intro_circle {
 	width: 8px;

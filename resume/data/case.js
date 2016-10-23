@@ -63,7 +63,7 @@ var casees = [
 				},*/
 				{
 					caseTitle:"旋转的V",
-					// publishTime:"2016-06-14 19:08",
+					publishTime:"2016-06-14 19:08",
 					caseThumbnail:"images/case/1/v.png",
 					caseDescription:"for循环，取模%判断方向，拼接字符串 ",
 					caseWebsite:"./case/JS入门/V/index.html"
