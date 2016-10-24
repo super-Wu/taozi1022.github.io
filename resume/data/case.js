@@ -20,11 +20,25 @@ var casees = [
 			caseName:"JS的属性操作",
 			caseList:[
 				{
+					caseTitle:"旋转的V",
+					publishTime:"2016-06-14 19:08",
+					caseThumbnail:"images/case/1/v.png",
+					caseDescription:"for循环，取模%判断方向，拼接字符串 ",
+					caseWebsite:"https://taozi1022.github.io/V/index.html"
+				},
+				{
 					caseTitle:"QQ列表",
 					publishTime:"2016-06-10 19:08",
 					caseThumbnail:"images/case/1/QQlist.png",
 					caseDescription:"描述：点击onclick，开关的使用，for循环，“大清洗”的思路",
 					caseWebsite:"./case/JS入门/QQ列表/index.html"
+				},
+				{
+					caseTitle:"单选",
+					publishTime:"2016-06-12 15:08",
+					caseThumbnail:"images/case/1/单选.png",
+					caseDescription:"描述：运用for循环，取模%判断方向，拼接字符串",
+					caseWebsite:"https://taozi1022.github.io/%E5%8D%95%E9%80%89/index.html"
 				},
 				/*{
 					caseTitle:"模拟QQ聊天",
@@ -33,13 +47,7 @@ var casees = [
 					caseDescription:"描述：这是我完成的一个小案例，综合涉及到的知识点是判断、字符串拼接，以及布局方面的小技巧，比如提交留言后，A用户在左，B用户在右"
 					,caseWebsite:"./case/JS入门/模拟QQ聊天/index.html"
 				},*/
-				{
-					caseTitle:"单选",
-					publishTime:"2016-06-12 15:08",
-					caseThumbnail:"images/case/1/单选.png",
-					caseDescription:"描述：运用for循环，取模%判断方向，拼接字符串",
-					caseWebsite:"./case/JS入门/模拟单选/index.html"
-				},
+				
 				{
 					caseTitle:"轮播图",
 					publishTime:"2016-06-13 19:08",
@@ -47,13 +55,13 @@ var casees = [
 					caseDescription:"描述：运用for循环，if语句过界处理，数组的运用个，自定义属性，索引值的使用",
 					caseWebsite:"./case/JS入门/轮播图/index.html"
 				},
-				/*{
-					caseTitle:"百度音乐列表",
-					publishTime:"2016-06-14 19:08",
-					caseThumbnail:"images/case/1/5-百度音乐列表.gif",
-					caseDescription:"描述：隔行变色取模(%)，input的checked，for循环配合if语句判断是否全选",
-					caseWebsite:"./case/JS入门/百度音乐列表/index.html"
-				},*/
+				{
+					caseTitle:"百度音乐",
+					publishTime:"2016-10-23 21:53:55",
+					caseThumbnail:"images/case/1/music.png",
+					caseDescription:"描述：隔行变色取模(%)，自定义勾选框，for循环配合if语句判断是否全选",
+					caseWebsite:"https://taozi1022.github.io/%E7%99%BE%E5%BA%A6%E9%9F%B3%E4%B9%90/index.html"
+				},
 				/*{
 					caseTitle:"百度文库评分",
 					publishTime:"2016-06-14 19:08",
@@ -61,13 +69,7 @@ var casees = [
 					caseDescription:"描述：for循环使用，if语句使用，数组，onmouseover，onmouseout",
 					caseWebsite:"./case/JS入门/百度文库评分/index.html"
 				},*/
-				{
-					caseTitle:"旋转的V",
-					publishTime:"2016-06-14 19:08",
-					caseThumbnail:"images/case/1/v.png",
-					caseDescription:"for循环，取模%判断方向，拼接字符串 ",
-					caseWebsite:"./case/JS入门/V/index.html"
-				}
+				
 			]
 		},
 		{
