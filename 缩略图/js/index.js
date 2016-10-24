@@ -10,9 +10,7 @@
 /*给每个span加自定义属性*/
 	$(".point>span").each(function(index,item){
 		$(item).attr("num1",index+1)
-	})
-/*鼠标移入每个span显示缩略图 */
-	$(".point>span").hover(function(){
+	}).hover(function(){		/*鼠标移入每个span显示缩略图 */
 		$(".dis").css({
 			"display":"block",
 			"left":$(this).position().left-38,
@@ -22,6 +20,11 @@
 		})
 	},function(){
 		$(".dis").css("display","none");
+	}).click(function(){
+		$(".cont>img").attr("src","./img/"+$(this).attr("num1")+".png");
+		$(".point>span").removeClass("act");
+		$(this).addClass("act");
+		n = $(this).attr("num1");
 	})
 
 var n = 1;

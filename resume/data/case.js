@@ -21,39 +21,31 @@ var casees = [
 			caseList:[
 				{
 					caseTitle:"旋转的V",
-					publishTime:"2016-06-14 19:08",
+					publishTime:"2016-10-20 11:25:15",
 					caseThumbnail:"images/case/1/v.png",
 					caseDescription:"for循环，取模%判断方向，拼接字符串 ",
 					caseWebsite:"https://taozi1022.github.io/V/index.html"
 				},
 				{
 					caseTitle:"QQ列表",
-					publishTime:"2016-06-10 19:08",
+					publishTime:"2016-10-20 15:34:29",
 					caseThumbnail:"images/case/1/QQlist.png",
 					caseDescription:"描述：点击onclick，开关的使用，for循环，“大清洗”的思路",
 					caseWebsite:"./case/JS入门/QQ列表/index.html"
 				},
 				{
-					caseTitle:"单选",
-					publishTime:"2016-06-12 15:08",
-					caseThumbnail:"images/case/1/单选.png",
-					caseDescription:"描述：运用for循环，取模%判断方向，拼接字符串",
-					caseWebsite:"https://taozi1022.github.io/%E5%8D%95%E9%80%89/index.html"
-				},
-				/*{
-					caseTitle:"模拟QQ聊天",
-					publishTime:"2016-06-10 19:08",
-					caseThumbnail:"images/case/1/模拟QQ聊天.gif",
-					caseDescription:"描述：这是我完成的一个小案例，综合涉及到的知识点是判断、字符串拼接，以及布局方面的小技巧，比如提交留言后，A用户在左，B用户在右"
-					,caseWebsite:"./case/JS入门/模拟QQ聊天/index.html"
-				},*/
-				
-				{
 					caseTitle:"轮播图",
-					publishTime:"2016-06-13 19:08",
+					publishTime:"2016-10-20 21:32:24",
 					caseThumbnail:"images/case/1/轮播图.png",
 					caseDescription:"描述：运用for循环，if语句过界处理，数组的运用个，自定义属性，索引值的使用",
 					caseWebsite:"./case/JS入门/轮播图/index.html"
+				},
+				{
+					caseTitle:"单选",
+					publishTime:"2016-10-21 12:04:29",
+					caseThumbnail:"images/case/1/单选.png",
+					caseDescription:"描述：运用for循环，取模%判断方向，拼接字符串",
+					caseWebsite:"https://taozi1022.github.io/%E5%8D%95%E9%80%89/index.html"
 				},
 				{
 					caseTitle:"百度音乐",
@@ -62,6 +54,21 @@ var casees = [
 					caseDescription:"描述：隔行变色取模(%)，自定义勾选框，for循环配合if语句判断是否全选",
 					caseWebsite:"https://taozi1022.github.io/%E7%99%BE%E5%BA%A6%E9%9F%B3%E4%B9%90/index.html"
 				},
+				{
+					caseTitle:"模拟QQ聊天",
+					publishTime:"2016-10-24 14:12:08",
+					caseThumbnail:"images/case/1/QQ.png",
+					caseDescription:"描述：这是我完成的一个模拟QQ聊天小demo，综合涉及到的知识点是判断、字符串拼接，以及布局方面的小技巧，比如提交留言后，A用户在左，B用户在右",
+					caseWebsite:"https://taozi1022.github.io/QQ%E8%81%8A%E5%A4%A9/index.html"
+				},
+				{
+					caseTitle:"轮播图-缩略",
+					publishTime:"2016-10-24 17:31:07",
+					caseThumbnail:"images/case/1/轮播图-缩略.png",
+					caseDescription:"描述：运用for循环，if语句过界处理，数组的运用，自定义属性，索引值的使用",
+					caseWebsite:"https://taozi1022.github.io/%E7%BC%A9%E7%95%A5%E5%9B%BE/index.html"
+				},
+				
 				/*{
 					caseTitle:"百度文库评分",
 					publishTime:"2016-06-14 19:08",
